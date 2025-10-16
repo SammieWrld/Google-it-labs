@@ -1,6 +1,6 @@
 # Google IT Support Labs
 
-This repository contains hands-on labs and notes completed as part of the Google IT Support Certificate on Coursera.
+“This repo started as my hands-on lab notebook from the Google IT Support Certificate, but I’ve expanded it with my own real-world troubleshooting scenarios, ticket simulations, and security labs.”
 
 ## Contents
 
