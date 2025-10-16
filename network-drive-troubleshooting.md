@@ -3,7 +3,7 @@
 **Ticket ID:** 014  
 **User:** CORP\Ife  
 **Date:** October 16, 2025  
-**Reported Issue:**  
+**Reported Issue:** 
 > "I can't access the shared folder on our Accounting server. It says the network path was not found."
 
 ---
